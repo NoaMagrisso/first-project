@@ -31,5 +31,13 @@ public class Main {
         }
     }
 
+    private static void printShapes2(List<AShape> shapes) {
+        for (AShape shape : shapes){
+            System.out.println("************************__________-------------");
+        }
+    }
+
+
+
 
 }

@@ -22,7 +22,7 @@ public class Main {
 
     private static void printShapes(List<AShape> shapes) {
         for (AShape shape : shapes){
-            System.out.println("************************");
+            System.out.println("************************__________-------------");
             System.out.println("Global details:");
             shape.printGlobalDetails();
             System.out.println("Print Dimensions:");
